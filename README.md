@@ -40,7 +40,7 @@ I'm a software engineer with **3+ years of experience**, including internship ex
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### Backend Development
