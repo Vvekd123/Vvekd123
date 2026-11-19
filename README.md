@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vivek Dara
+# 👋 Hi, I'm Dara Venkata Sai Vivek
 
 <h3 align="center">Senior Software Engineer | Python Backend Developer | Full Stack Developer | Agentic AI Enthusiast</h3>
 
